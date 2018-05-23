@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-/* Method1 is brute force and Method2 is using a one-way sliding window*/
+/* Method1 is brute force and Method2 is using a one-way sliding window */
 
 public class Num3_LengthOfLongestSubstring {
     public boolean checkUnique(String s, int start, int end) {
